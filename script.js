@@ -1,4 +1,4 @@
-// Variable declaration and codditionals (part 1)
+// Variable declaration and conditionals (part 1)
 // Different ways to declare variables....note: the var method is outdated.
 
 var oldStyle = "This is the old way";
